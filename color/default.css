@@ -39,7 +39,7 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 
 /* blog */
 .home-post .post-meta {
-	background: #e06d5e;
+	background: #3498DB;
 }
 
 /* com */
@@ -62,7 +62,7 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 }
 
 .portfolio .portfolio-overlay {
-	background: #e06d5e;
+	background: #3498DB;
 }
 
 /* icon */
