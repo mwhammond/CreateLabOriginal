@@ -155,8 +155,8 @@ blockquote {
 }
 
 blockquote.large {
-	font-size:36px;
-	font-weight:700;
+	font-size:30px;
+	font-weight:600;
 	line-height:1.1em;
 }
 blockquote.large:before {
@@ -487,6 +487,12 @@ section.spacer {
 	padding:90px 0 30px;
 	color:#fcfcfc;
 }
+
+section.gray {
+	padding:80px 0 0px;
+	
+}
+
 
 .spacer.green,.section.green {
 	background:#1bac91;
