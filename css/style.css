@@ -464,7 +464,7 @@ section.section h4 {
 	letter-spacing: -1px;
 }
 section.inner {
-	padding: 50px 0 50px;
+	padding: 50px 0 30px;
 }
 
 
@@ -479,7 +479,6 @@ section.inner {
 .section.darkblue p {
 color: #fff;
 }
-
 
 
 /* === section spacer === */
@@ -831,6 +830,11 @@ section#blog {
 section#works{
 background: #BDC3C7
 }
+
+section#contact{
+background: #ffc40d;
+}
+
 
 
 .home-post {
