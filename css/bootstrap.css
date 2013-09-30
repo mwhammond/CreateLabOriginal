@@ -4798,7 +4798,7 @@ input[type="submit"].btn.btn-mini {
   background-image: -o-linear-gradient(top, #fff, #fff);
   background-image: linear-gradient(to bottom, #fff, #fff);
   background-repeat: repeat-x;
-  border-color: #252525;
+  /* border-color: #252525; */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#fff', GradientType=0);
 }
 
