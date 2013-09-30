@@ -38,9 +38,13 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 }
 
 /* blog */
+
+
 .home-post .post-meta {
-	background: #3498DB;
+	background: #F1C40F;
 }
+
+
 
 /* com */
 .tabbable ul.nav-tabs li.active a,.tabbable ul.nav-tabs li a:hover {
