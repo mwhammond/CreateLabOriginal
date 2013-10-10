@@ -531,8 +531,12 @@ section.gray {
 	color:#454444;
 }
 
-.spacer.orange,.section.white {
-	background:#fff;
+.spacer.red {
+	background:#398E2F;
+}
+
+.spacer.red, h2, a {
+	color:#fff;
 }
 
 
