@@ -191,7 +191,7 @@ a:hover, a:active {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
-	color: #312f2b;
+	color: #302e2a;
 	line-height:1.1em;
 	font-family:'Open Sans', Arial, sans-serif;
 }
@@ -493,7 +493,7 @@ section.gray {
 }
 
 .spacer.green,.section.green {
-	background:#1bac91;
+	background:#2fcc70;
 }
 
 .spacer.darkblue,.section.darkblue {
@@ -536,7 +536,6 @@ section.gray {
 }
 
 .spacer.red, h2, a {
-	color:#fff;
 }
 
 
@@ -1378,7 +1377,7 @@ i.icon-white {
   border-bottom-color: none;
 }
 .btn:link, .btn:visited {
-	color: #fff;
+	color: #2c3e50;
 }
 .btn:hover {
 	background: #333 !important;
