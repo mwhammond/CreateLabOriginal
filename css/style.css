@@ -380,7 +380,8 @@ header .logo {
 
 /* --- Header slider --- */
 #header-wrapper.header-slider {
-	background: #444 url(../img/kevinbackground.jpg) no-repeat center center fixed;
+  background-origin: content-box;
+	background: #444 url(../img/kevinbackground.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
