@@ -268,8 +268,8 @@ h2.pagetitle {
 .medium {
 	font-weight: normal;
 }
-#speaker {
-  margin-left: 200px;
+.speaker {
+  margin-left: 5% !important;
   text-align: center;
 }
 .trophy {
