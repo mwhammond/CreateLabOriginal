@@ -181,7 +181,7 @@ body, input, textarea {
 }
 
 a {
-  color: #454545;
+  
   text-decoration: none;
 }
 
@@ -1398,9 +1398,7 @@ i.icon-white {
   *border: 0;
   border-bottom-color: none;
 }
-.btn:link, .btn:visited {
-	color: #2c3e50;
-}
+
 .btn:hover {
 	background: #333 !important;
 }
